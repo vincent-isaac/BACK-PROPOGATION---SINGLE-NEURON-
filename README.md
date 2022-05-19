@@ -1,5 +1,5 @@
 ### EX NO:04
-### DATE:
+### DATE:11.04.2022
 # <p align="center">BACK-PROPOGATION---SINGLE-NEURON- <p/>
 ## AIM:
 
@@ -30,11 +30,12 @@ Backpropagation (backward propagation) is an important mathematical tool for imp
 <br/><br/>Keep repeating the process until the desired output is achieved.
 
 ## PROGRAM:
-```python
+```
 #Program to implement random classification.
 #Developed by   :J Vincent isaac jeyaraj
 #Register Number :  212220230060
-
+```
+```python
 import numpy as np
 i=1.5    
 w_o=0.8  
